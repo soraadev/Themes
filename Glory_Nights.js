@@ -1,3 +1,13 @@
+{
+  "name": "Glory Nights",
+  "description": "A light, soft night theme.",
+  "color": "#9279BA",
+  "authors": [
+    {
+      "name": "darealyeeto",
+      "id": "980160393093730395"
+    }
+
 const converted = {
   "@import url('https://clearvision.github.io/ClearVision-v6/main.css')": true,
   ":root": {
